@@ -1,0 +1,19 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\VENOX\bin\Debug\VENOX.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\VENOX\bin\Debug\VENOX.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\VENOX\bin\Debug\VENOX.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\VENOX\obj\Debug\VENOX.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\VENOX\obj\Debug\VENOX.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\VENOX\obj\Debug\VENOX.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\VENOX\obj\Debug\VENOX.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\VENOX\obj\Debug\VENOX.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\VENOX\obj\Debug\VENOX.pdb
+C:\Users\Administrator\Desktop\VENOX\VENOX\obj\Debug\VENOX.exe
+C:\Users\Administrator\Desktop\VENOX\VENOX\obj\Debug\VENOX.xml
+C:\Users\Administrator\Desktop\VENOX\VENOX\obj\Debug\VENOX.pdb
+C:\Users\Administrator\Desktop\VENOX\VENOX\bin\Debug\VENOX.exe
+C:\Users\Administrator\Desktop\VENOX\VENOX\bin\Debug\VENOX.pdb
+C:\Users\Administrator\Desktop\VENOX\VENOX\bin\Debug\VENOX.xml
+C:\Users\Administrator\Desktop\VENOX\VENOX\obj\Debug\VENOX.Main.resources
+C:\Users\Administrator\Desktop\VENOX\VENOX\obj\Debug\VENOX.Resources.resources
+C:\Users\Administrator\Desktop\VENOX\VENOX\obj\Debug\VENOX.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VENOX\VENOX\bin\Debug\VENOX.exe.config

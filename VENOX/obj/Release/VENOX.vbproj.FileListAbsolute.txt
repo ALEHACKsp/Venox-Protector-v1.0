@@ -1,0 +1,23 @@
+C:\Users\Administrator\Desktop\VENOX\VENOX\bin\Release\VENOX.exe
+C:\Users\Administrator\Desktop\VENOX\VENOX\bin\Release\VENOX.pdb
+C:\Users\Administrator\Desktop\VENOX\VENOX\bin\Release\VENOX.xml
+C:\Users\Administrator\Desktop\VENOX\VENOX\bin\Release\dnlib.dll
+C:\Users\Administrator\Desktop\VENOX\VENOX\bin\Release\Mono.Cecil.dll
+C:\Users\Administrator\Desktop\VENOX\VENOX\obj\Release\VENOX.Main.resources
+C:\Users\Administrator\Desktop\VENOX\VENOX\obj\Release\VENOX.Resources.resources
+C:\Users\Administrator\Desktop\VENOX\VENOX\obj\Release\VENOX.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VENOX\VENOX\obj\Release\VENOX.exe
+C:\Users\Administrator\Desktop\VENOX\VENOX\obj\Release\VENOX.xml
+C:\Users\Administrator\Desktop\VENOX\VENOX\obj\Release\VENOX.pdb
+C:\Users\Administrator\Desktop\VENOX\VENOX\obj\Release\VENOX.vbprojResolveAssemblyReference.cache
+F:\Reverse Engineering\.NET Protectors\#Inx Methods\VENOX\VENOX\bin\Release\VENOX.exe
+F:\Reverse Engineering\.NET Protectors\#Inx Methods\VENOX\VENOX\bin\Release\VENOX.pdb
+F:\Reverse Engineering\.NET Protectors\#Inx Methods\VENOX\VENOX\bin\Release\VENOX.xml
+F:\Reverse Engineering\.NET Protectors\#Inx Methods\VENOX\VENOX\bin\Release\Mono.Cecil.dll
+F:\Reverse Engineering\.NET Protectors\#Inx Methods\VENOX\VENOX\obj\Release\VENOX.Main.resources
+F:\Reverse Engineering\.NET Protectors\#Inx Methods\VENOX\VENOX\obj\Release\VENOX.Resources.resources
+F:\Reverse Engineering\.NET Protectors\#Inx Methods\VENOX\VENOX\obj\Release\VENOX.vbproj.GenerateResource.Cache
+F:\Reverse Engineering\.NET Protectors\#Inx Methods\VENOX\VENOX\obj\Release\VENOX.exe
+F:\Reverse Engineering\.NET Protectors\#Inx Methods\VENOX\VENOX\obj\Release\VENOX.xml
+F:\Reverse Engineering\.NET Protectors\#Inx Methods\VENOX\VENOX\obj\Release\VENOX.pdb
+F:\Reverse Engineering\.NET Protectors\#Inx Methods\VENOX\VENOX\obj\Release\VENOX.vbprojResolveAssemblyReference.cache

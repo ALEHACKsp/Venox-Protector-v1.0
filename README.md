@@ -21,3 +21,5 @@ Venox Protector v1.0
 -Strings Encryption
 
 -Fix Res
+
+![banner](https://user-images.githubusercontent.com/109486775/179434690-3600f724-e945-4488-a0a9-a0326dbe46d3.png)
